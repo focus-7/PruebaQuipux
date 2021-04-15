@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629525523975",
+    "project_id": "pruebaquipux-6746c",
+    "storage_bucket": "pruebaquipux-6746c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629525523975:android:78e8931a10a10abd19c4a2",
+        "android_client_info": {
+          "package_name": "org.focus.pruebaquipux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629525523975-5d8bb92el3m0ujckr0a3g1vpelarms1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEb2O59V6MJvmfy9O71Z29gnJWiEGLjgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629525523975-5d8bb92el3m0ujckr0a3g1vpelarms1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
